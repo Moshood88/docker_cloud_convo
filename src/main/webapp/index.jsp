@@ -1,5 +1,5 @@
 #<h1> CloudConvo DevOps Project... </h1>
-#<h2> Also Merci!!! Good Luck and we are almost done with the course.Wow!!!!!!Bye for now Thankyou....</h2>
+#<h2> i Moshood Shifawu Akanmu will make it in this Devop. In Sha Allah....</h2>
 
 <html>
   <head>
